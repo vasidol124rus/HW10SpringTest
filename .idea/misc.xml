@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/microserviceNotes/pom.xml" />
         <option value="$PROJECT_DIR$/apiGateway/pom.xml" />
+        <option value="$PROJECT_DIR$/eurekaServer/pom.xml" />
       </list>
     </option>
   </component>
