@@ -10,6 +10,7 @@
         <module name="apiGateway" />
         <module name="microserviceNotes" />
         <module name="eurekaServer" />
+        <module name="microservice1" />
       </profile>
     </annotationProcessing>
   </component>
@@ -17,6 +18,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="apiGateway" options="-parameters" />
       <module name="eurekaServer" options="-parameters" />
+      <module name="microservice1" options="-parameters" />
       <module name="microserviceNotes" options="-parameters" />
     </option>
   </component>
